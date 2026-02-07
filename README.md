@@ -13,6 +13,6 @@ You will first be asked if you want to install python, so press y.
 <img width="959" height="514" alt="Auto maiking macOS - エクスプローラー 2026_02_07 23_31_36" src="https://github.com/user-attachments/assets/dbfcc194-b727-4a78-9a8f-0978d2da8e15" />
 
 This will start the installation of python.
-Once the installation is complete, a list of macOS versions will be displayed, so enter the number that matches the version you want.
+Once the macOS download is complete, the automatically saved file will open.
 Once the macOS download is complete, the file that was automatically saved will open automatically.
 Save the file in a convenient location, such as the desktop.
