@@ -14,5 +14,8 @@ You will first be asked if you want to install python, so press y.
 
 This will start the installation of python.
 Once the installation is complete, a list of macOS versions will be displayed, so enter the number that matches the version you want to select.
+
+<img width="883" height="474" alt="C__WINDOWS_system32_cmd exe 2026_02_07 23_36_29" src="https://github.com/user-attachments/assets/b505278a-513f-48a0-a5a7-05ca2f51d098" />
+
 Once the macOS download is complete, the saved file will be opened automatically.
 Please save this file in an easy-to-use location, such as the desktop.
