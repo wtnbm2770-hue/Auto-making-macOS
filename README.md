@@ -1,4 +1,6 @@
+
 First, click "Code" and select the download zip file.
+
 <img width="1270" height="682" alt="Screenshot 2026_02_07 23_10_58" src="https://github.com/user-attachments/assets/3077f3af-6c40-4fd4-bfca-fc612f95c46f" />
 A zip file will then be downloaded, so unzip the downloaded zip file.
 Next, select and run macrecovery.bat in Auto maiking macOS.
